@@ -1,2 +1,2 @@
 # git-commond
-git command to clone merge and commit
+git command to clone merge and commit.
